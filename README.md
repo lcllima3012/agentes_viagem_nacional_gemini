@@ -1,6 +1,6 @@
 # Sistema de Criação de Conteúdo de Viagem com Agentes Gemini
 
-Este projeto utiliza o poder dos modelos Gemini do Google para automatizar a criação de conteúdo de viagem. Ele emprega uma arquitetura com múltiplos agentes, cada um especializado em uma etapa do processo: busca de informações sobre destinos, planejamento de viagens, redação de e-mails marketing e revisão de conteúdo.
+Este projeto utiliza o poder dos modelos Gemini do Google para automatizar a criação de conteúdo de viagem. Ele emprega uma arquitetura com múltiplos agentes, cada um especializado em uma etapa do processo: busca de informações sobre destinos, planejamento de viagens, redação de e-mails marketing e revisão de conteúdo. As viagens devem ser definidas dentro do território nacional. 
 
 ## Visão Geral
 
